@@ -10,3 +10,23 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.med {
+  width: 300px;
+}
+
+.left, .right {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.left {
+	float: left;
+	margin-right: 20px;
+
+}
+
+.right {
+	float: right;
+	margin-left: 20px;
+}
